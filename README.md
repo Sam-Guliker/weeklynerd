@@ -1,6 +1,6 @@
-# weeklynerd
+# Weeklynerd
 In de minor everything web hebben wij een aantal gast college's gehad.
-Dit is onderverdeeld in 9 weekly nerd's. Dit zijn de sketchnotes die er zijn gegeven.
+Dit is onderverdeeld in 9 weekly nerd's. Dit zijn de sketchnotes die erbij horen
 
 # Sketchnotes
 1. [Brit Wijnmalen - Sketchnotes](./artikelen/britwijnmalen.md)
@@ -15,5 +15,5 @@ Dit is onderverdeeld in 9 weekly nerd's. Dit zijn de sketchnotes die er zijn geg
 10. A short hackaton zit bij mijn artikelen.
 
 # Artikelen
-[De Link](https://medium.com/@gulikersam/latest)
+[De Link](https://medium.com/@gulikersam/latest)  
 Ik heb medium gebruikt voor mijn artikelen.

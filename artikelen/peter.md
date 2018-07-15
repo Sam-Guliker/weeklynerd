@@ -1,4 +1,4 @@
-[Volgende sketchnote]()
+[Vorige sketchnote](./tituswormer.md) | [Volgende sketchnote](tam.md)
 
 # 1. Peter Paul Koch - Browsers
 Peter heeft verteld over hoe en waarom browser verschillende
