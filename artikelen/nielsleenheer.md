@@ -1,0 +1,7 @@
+[Volgende sketchnote]()
+
+# 7. Niels Leenheer - Bluetooth
+Niels heeft ons laten zien wat de nieuwe technieken zijn met bluetooth. Hiernaast heeft hij laten zien wat er allemaal mogelijk is met bluetooth in de brower.
+
+# Sketchnotes
+![niels](7.png)
